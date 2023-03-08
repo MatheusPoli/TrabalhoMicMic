@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
 #define led 2
-//editado
+
 String ClientRequest;
 
 IPAddress staticIP(192,168,0,48);
